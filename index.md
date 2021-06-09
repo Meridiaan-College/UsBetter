@@ -1,7 +1,15 @@
 ## Welcome to GitHub Pages
 
-![plaatje](spotfiylikeapp.gif)
+![plaatje](
 
+
+# UsBetter
+
+## Usbetter, We Together
+
+### Informatie
+
+We kennen het allemaal, dat we een USB-stick in onze laptop. 
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/UsBetter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
