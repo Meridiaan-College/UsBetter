@@ -7,9 +7,12 @@
 
 ## Usbetter, We Together
 
-### Informatie
 
-We kennen het allemaal, dat we een USB-stick in onze laptop. 
+We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, maar eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+
+### Wat is de UsBetter?
+
+De UsBetter is een klein stukje plastic, met een beetje de vorm van een trechter. Het zorgt ervoor dat de UsB-stick soepel in de poort gaat. 
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/UsBetter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
