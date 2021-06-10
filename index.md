@@ -3,7 +3,7 @@
 
 # UsBetter
 
-![Image](O&O informatica afbeelding 1.png)
+![Image](O&Oinformaticaafbeelding1.png)
 
 
 
