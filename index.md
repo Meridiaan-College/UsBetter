@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![plaatje](
+![plaatje](O&O informatica afbeelding 1.png)
 
 
 # UsBetter
