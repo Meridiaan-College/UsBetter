@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-![image](O&O informatica afbeelding 1.png)
-
 
 # UsBetter
+
+![image](O&O informatica afbeelding 1.png)
 
 ## Usbetter, We Together
 
