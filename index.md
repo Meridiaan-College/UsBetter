@@ -3,7 +3,7 @@
 
 # UsBetter
 
-![Image](O&O informatica afbeelding 1.src)
+![plaatje](O&O informatica afbeelding 1.png)
 
 
 ## Usbetter, We Together
