@@ -5,16 +5,31 @@
 
 ![Image](O&Oinformaticaafbeelding1.png)
 
+het gele stukje is de UsBetter.
+
+
 
 
 ## Usbetter, We Together
 
 
-We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, maar eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, en eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+
+
+
 
 ### Wat is de UsBetter?
 
-De UsBetter is een klein stukje plastic, met een beetje de vorm van een trechter. Het zorgt ervoor dat de UsB-stick soepel in de poort gaat. 
+De UsBetter is de oplossing voor dit probleem. Het is een klein stukje plastic(14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past, waardoor je dag kan zeggen tegen deze onnodig paar seconden frustratie. Het werkt heel makkelijk, doordat de UsBetter in een soort trechtervorm zit. 
+
+
+### Hoeveel kost de UsBetter? 
+
+De UsBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Maar omdat het heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de UsBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
+
+
+![Image]()
+
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/UsBetter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
