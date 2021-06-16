@@ -5,7 +5,7 @@
 
 ![Image](O&Oinformaticaafbeelding1.png)
 
-het gele stukje is de UsBetter.
+Het gele stukje is de UsBetter.
 
 
 
