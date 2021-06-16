@@ -28,7 +28,7 @@ De UsBetter is de oplossing voor dit probleem. Het is een klein stukje plastic(1
 De UsBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Maar omdat het heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de UsBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
 
 
-![Image]()
+![Image](O&Oinformaticaafbeelding2.png)
 
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/UsBetter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
