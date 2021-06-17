@@ -9,15 +9,15 @@ Het gele stukje is de USBetter.
 
 
 
-```markdown
+
 ## USBetter, We Together
 
-
+```markdown
 We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. 
 Dan als we hem er andersom in willen doen, lukt het ook niet. 
 Dan nog een keer andersom, en eidelijk lukt het. 
 Het zijn een paar seconden frustratie, die we hebben opgelost. 
-Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen en gedag zeggen tegen die frustratie. 
 
 ```
 
