@@ -1,31 +1,37 @@
 ## Welcome to GitHub Pages
 
 
-# UsBetter
+# USBetter
 
 ![Image](O&Oinformaticaafbeelding1.png)
 
-Het gele stukje is de UsBetter.
+Het gele stukje is de USBetter.
 
 
 
-
-## Usbetter, We Together
-
-
-We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, en eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+```markdown
+## USBetter, We Together
 
 
+We kennen het allemaal, dat we een USB-stick in onze laptop en het lukt niet. 
+Dan als we hem er andersom in willen doen, lukt het ook niet. 
+Dan nog een keer andersom, en eidelijk lukt het. 
+Het zijn een paar seconden frustratie, die we hebben opgelost. 
+Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. 
+
+```
 
 
-### Wat is de UsBetter?
+### Wat is de USBetter?
 
-De UsBetter is de oplossing voor dit probleem. Het is een klein stukje plastic(14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past, waardoor je dag kan zeggen tegen deze onnodig paar seconden frustratie. Het werkt heel makkelijk, doordat de UsBetter in een soort trechtervorm zit. 
+De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic(14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past, waardoor je dag kan zeggen tegen deze onnodig paar seconden frustratie. Je klikt het in je USB-poort. Het werkt heel makkelijk, doordat de UsBetter in een soort trechtervorm zit. 
 
 
-### Hoeveel kost de UsBetter? 
+### Hoeveel kost de USBetter? 
 
-De UsBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Maar omdat het heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de UsBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
+De USBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Maar omdat het heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de USBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
+
+
 
 
 ![Image](O&Oinformaticaafbeelding2.jpg) 
