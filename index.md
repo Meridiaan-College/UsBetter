@@ -1,23 +1,19 @@
 # USBetter
 
 ![Image](O&Oinformaticaafbeelding3.jpg)
-
 ![Image](O&Oinformaticaafbeelding1.png)
 
 
 Het gele stukje is de USBetter. 
 
+
+
+
 ## USBetter, We Together
 
-```markdown
-We kennen het allemaal, een USB-stick in je laptop doen, maar het lukt niet. 
-Dan als we hem er andersom in willen doen, lukt het ook niet. 
-Dan nog een keer andersom, en eidelijk lukt het. 
-Het zijn een paar seconden frustratie, die we hebben opgelost. 
-Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen.
-Zeg gedag tegen die frustratie!
+We kennen het allemaal, je wilt een USB-stick in je laptop doen, maar het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, en eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. Zeg gedag tegen die frustratie!
 
-```
+
 
 
 ### Wat is de USBetter?
