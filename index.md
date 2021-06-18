@@ -3,13 +3,13 @@
 
 # USBetter
 
-![Image](O&Oinformaticaafbeelding1.png)
-
-Het gele stukje is de USBetter.
-
-
 ![Image](O&Oinformaticaafbeelding3.jpg)
 
+
+
+![Image](O&Oinformaticaafbeelding1.png)
+
+Het gele stukje is de USBetter. 
 
 ## USBetter, We Together
 
