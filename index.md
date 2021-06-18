@@ -21,7 +21,16 @@ We kennen het allemaal, je wilt een USB-stick in je laptop doen, maar het lukt n
 De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic (14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past, waardoor je dag kan zeggen tegen deze onnodig paar seconden frustratie. Je klikt het in je USB-poort. Het werkt heel makkelijk, doordat de UsBetter in een soort trechtervorm zit. 
 
 
-### Hoeveel kost de USBetter? 
+
+### Hoe is de USBetter bedacht?
+
+
+
+### Hoe wordt de USBetter gemaakt? 
+
+
+
+### Hoe willen we de USBetter verkopen? 
 
 De USBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Omdat de USBetter heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de USBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
 
