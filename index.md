@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-
 # USBetter
 
 ![Image](O&Oinformaticaafbeelding3.jpg)
@@ -30,7 +27,7 @@ De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic (
 
 ### Hoeveel kost de USBetter? 
 
-De USBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Maar omdat het heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de USBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
+De USBetter is heel goedkoop. Dat is zo omdat het met hele nieuwe technologieën wordt gemaakt, het zou een paar centen zijn. Omdat de USBetter heel klein en goedkoop is, zullen we dit product verkopen aan andere bedrijven, die bij hun product, de UsBetter met hun logo kan geven. We verkopen de USBetter die dan met duizenden naar bedrijven die hun eigen touch eraan kunnen geven. 
 
 
 
