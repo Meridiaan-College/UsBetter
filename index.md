@@ -10,7 +10,7 @@ Het gele stukje is de USBetter.
 ## USBetter, We Together
 
 ```markdown
-We kennen het allemaal, een USB-stick in onze laptop doen, maar het lukt niet. 
+We kennen het allemaal, een USB-stick in je laptop doen, maar het lukt niet. 
 Dan als we hem er andersom in willen doen, lukt het ook niet. 
 Dan nog een keer andersom, en eidelijk lukt het. 
 Het zijn een paar seconden frustratie, die we hebben opgelost. 
