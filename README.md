@@ -1,2 +1,2 @@
-# UsBetter
-UsBetter, We Together
+# USBetter
+USBetter, We Together
