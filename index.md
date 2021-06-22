@@ -11,14 +11,14 @@ Het gele stukje is de USBetter.
 
 ## USBetter, We Together
 
-### We kennen het allemaal, je wilt een USB-stick in je laptop doen, maar het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, en eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de UsBetter kan je de USB-stick in 1 keer in de laptop doen. Zeg gedag tegen die frustratie!
+### We kennen het allemaal, je wilt een USB-stick in je laptop doen, maar het lukt niet. Dan als we hem er andersom in willen doen, lukt het ook niet. Dan nog een keer andersom, en eidelijk lukt het. Het zijn een paar seconden frustratie, die we hebben opgelost. Met de USBetter kan je de USB-stick in 1 keer in de laptop doen. Zeg gedag tegen die frustratie!
 
 
 
 
 ### Wat is de USBetter?
 
-De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic (14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past. Het is iets heel klein, dus je kan het overal mee naartoe meenemen. Je klikt het in je USB-poort, en dan kan je jouw USB-poort makkelijk gebruiken. Het gaat zo makkelijk, doordat de UsBetter in een soort trechtervorm zit. 
+De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic (14 mm x 6,5 mm),  dat precies in en rond je type-A USB-poort (12 mm x 4,5 mm) past. Het is iets heel klein, dus je kan het overal mee naartoe meenemen. Je klikt het in je USB-poort, en dan kan je jouw USB-poort makkelijk gebruiken. Het gaat zo makkelijk, doordat de USBetter in een soort trechtervorm zit. 
 
 
 
