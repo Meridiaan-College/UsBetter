@@ -24,11 +24,11 @@ De USBetter is de oplossing voor dit probleem. Het is een klein stukje plastic (
 
 ### Hoe is de USBetter bedacht?
 
-We keken eerst naar problemen die iedereen wel eens mee maakt, waarbij dit probleem al snel opviel, omdat het voor een klein beetje frustratie zorgt, en omdat iedereen het probleem wel eens heeft. Het idee van een trechter leek al snel een goede oplossing van dit probleem, dus gingen we bezig met een 3D-model maken 
+We keken eerst naar problemen die iedereen wel eens mee maakt, waarbij dit probleem al snel opviel, omdat het voor een klein beetje frustratie zorgt, en omdat iedereen het probleem wel eens heeft. Het idee van een trechter leek al snel een goede oplossing van dit probleem, dus gingen we bezig met een 3D-model maken. Toen we wisten dat we het konden 3D-printen, wisten we dat het zo zou worden gemaakt. 
 
 
 ### Hoe wordt de USBetter gemaakt? 
-
+Zoals al eerder werd gezegd, wordt het ge-3D-print. Dit leek ook een van de weinige manieren om het te maken, want het materiaal moest een soort van plastic zijn en het moest heel klein zijn. Zo precies werkt alleen een 3D-printer, zeker als we het ook goedkoop willen houden. 
 
 
 ### Hoe willen we de USBetter verkopen? 
